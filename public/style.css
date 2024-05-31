@@ -5,9 +5,6 @@
   box-sizing: border-box;
 }
 
-html, input {
-  font-family:"Comic Sans","Comic Sans MS","Chalkboard","ChalkboardSE-Regular","Marker Felt","Purisa","URW Chancery L",cursive,sans-serif
-}
 
 html, body {
   height: 100%;
